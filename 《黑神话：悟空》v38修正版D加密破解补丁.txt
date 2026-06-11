@@ -1,0 +1,21 @@
+1.下载最新的 Steam 注册账号
+2.下载最新的 SteamTools 后，直接使用官网的 https://www.steamtools.net/
+powershell 脚本
+irm steam.run | iex
+3.SteamTools
+	3.1.解锁开启模式:
+	最明亮的图标:此模式下，SteamTools拥有解锁游戏和授权D加密等功能。
+
+	3.2.原始正常模式:
+	亮度适中的图标: steam正常启动，但steamtools功能用不了，steamtools不能工作
+
+	3.3 Steam未启动模式:
+    较暗的图标:提示Steam未启动。
+4.导入《黑神话：悟空》2358720清单
+5.重启下载《黑神话：悟空》
+6.打《黑猴v38修正版D加密破解补丁》
+7.首次运行《黑神话：悟空》要运行《黑神话：悟空》目录下的\SteamLibrary\steamapps\common\BlackMythWukong\b1\Binaries\Win64\b1-Win64-Shipping.exe完成游戏到第一关
+8.以后就可以用自己账号Steam菜单运行《黑神话：悟空》了
+
+注：《黑猴v38修正版D加密破解补丁》压缩包含了SteamTools安装程序，2358720清单
+
