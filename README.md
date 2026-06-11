@@ -8,7 +8,7 @@ Update time: `2026-05-06`
 
 * 如果再发现有倒卖本清单库的行为，本清单库中的清单将不会再更新。
 * If found out that there are still people reselling this manifesthub, we will stop updating the manifests in manifesthub.
-* 商业合作/ Contact for business cooperation: `Discord: oureveryday  Telegram: @oureveryday1`
+* 商业合作/ Contact for business cooperation: `Discord: laowen_8888  Telegram: @whgbsin`
 
 ## Steam 清单 API / Steam Manifest API
 
@@ -17,4 +17,3 @@ Update time: `2026-05-06`
 * API Call Method: `https://api.manifesthub1.filegear-sg.me/manifest?apikey=<API Key>&depotid=<depotid>&manifestid=<manifest id>`
 * 获取API密钥/Get API Key: [https://manifesthub1.filegear-sg.me](https://manifesthub1.filegear-sg.me)
 * 免费API密钥有效期为24小时/Free API Key valid for 24 hours
-* https://github.com/SteamAutoCracks/ManifestHub
