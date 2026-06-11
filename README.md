@@ -17,4 +17,3 @@ Update time: `2026-05-06`
 * API Call Method: `https://api.manifesthub1.filegear-sg.me/manifest?apikey=<API Key>&depotid=<depotid>&manifestid=<manifest id>`
 * 获取API密钥/Get API Key: [https://manifesthub1.filegear-sg.me](https://manifesthub1.filegear-sg.me)
 * 免费API密钥有效期为24小时/Free API Key valid for 24 hours
-* https://github.com/SteamAutoCracks/ManifestHub
